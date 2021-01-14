@@ -4,4 +4,4 @@ Using the Dart Language and the Flutter SDK. I got a basic understanding of how 
 
 # Screenshots 
 Inline-style: 
-![alt text](Screenshot 2021-01-14 172529.png)
+![alt text](https://github.com/InigoHohmeyer/FlutterCalculator/blob/master/Screenshot%202021-01-14%20172529.png)
